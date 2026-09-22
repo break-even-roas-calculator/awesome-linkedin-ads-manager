@@ -60,3 +60,5 @@ A curated list for anyone working in linkedin ads manager - officially LinkedIn 
 ## Contributing
 
 Open a pull request with a page that LinkedIn's advertising site links to, or a tool the sources name, plus one line on why it belongs.
+
+_Last reviewed: 2026-09-22_
